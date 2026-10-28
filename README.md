@@ -25,17 +25,3 @@ O site é publicado pelo GitHub Pages a partir da branch `main`.
 2. Em **Settings → Pages**, selecione **Deploy from a branch**, branch `main` e pasta `/(root)`.
 3. Confira a conclusão da publicação na aba **Actions**.
 4. Abra https://gabocardo.github.io/apex-n1/ para conferir o resultado.
-
-## QR Code
-
-Gere um QR Code estático usando a URL https://gabocardo.github.io/apex-n1/ e teste a leitura no celular antes de imprimir. O mesmo QR Code continua válido quando o conteúdo é atualizado nesse endereço.
-
-## Equipe
-
-- Gabriel de Oliveira
-- Yagu Naoto Iwanaga
-- Vitor Andrade Oliveira
-- João Pedro Moraes Basques
-- Anderson Luiz Sanches Junior
-
-Os links do LinkedIn estão nos cartões da equipe no site. A foto da máquina e os retratos foram fornecidos pela equipe. A imagem do controle com LCD será adicionada futuramente.
