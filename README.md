@@ -1,6 +1,6 @@
 # APEX N1
 
-Landing page da máquina flowpack desenvolvida pela equipe APEX da FIAP para o Challenge Festo. O site apresenta o projeto e mais detalhes sobre o que desenvolvemos.
+Landing page da máquina flowpack desenvolvida pela equipe APEX da FIAP para o Challenge Festo. O site apresenta o projeto, o fluxo de embalagem, o painel web, o controle portátil com ESP e LCD e os cinco integrantes.
 
 [Acesse o site](https://gabocardo.github.io/apex-n1/)
 
@@ -8,7 +8,7 @@ Landing page da máquina flowpack desenvolvida pela equipe APEX da FIAP para o C
 
 ## Tecnologias
 
-HTML, CSS e JavaScript.
+HTML, CSS e JavaScript puro, sem frameworks ou etapa de compilação. Layout responsivo, navegação por teclado e cartões deslizantes para as etapas e a equipe.
 
 ## Testar localmente
 
@@ -25,3 +25,17 @@ O site é publicado pelo GitHub Pages a partir da branch `main`.
 2. Em **Settings → Pages**, selecione **Deploy from a branch**, branch `main` e pasta `/(root)`.
 3. Confira a conclusão da publicação na aba **Actions**.
 4. Abra https://gabocardo.github.io/apex-n1/ para conferir o resultado.
+
+## QR Code
+
+Gere um QR Code estático usando a URL https://gabocardo.github.io/apex-n1/ e teste a leitura no celular antes de imprimir. O mesmo QR Code continua válido quando o conteúdo é atualizado nesse endereço.
+
+## Equipe
+
+- Gabriel de Oliveira
+- Yagu Naoto Iwanaga
+- Vitor Andrade Oliveira
+- João Pedro Moraes Basques
+- Anderson Luiz Sanches Junior
+
+Os links do LinkedIn estão nos cartões da equipe no site. A foto da máquina e os retratos foram fornecidos pela equipe. As fotos da máquina e do módulo ESP com LCD receberam remoção de fundo. O controle portátil tem bateria, entrada para recarga e conexão com os demais microcontroladores. O painel web exibido é uma captura da interface, não um controle ativo da máquina.
