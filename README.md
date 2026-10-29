@@ -8,7 +8,7 @@ Landing page da máquina flowpack desenvolvida pela equipe APEX da FIAP para o C
 
 ## Tecnologias
 
-HTML, CSS e JavaScript puro, sem frameworks ou etapa de compilação. Layout responsivo, navegação por teclado e cartões deslizantes para as etapas e a equipe.
+HTML, CSS e JavaScript.
 
 ## Testar localmente
 
